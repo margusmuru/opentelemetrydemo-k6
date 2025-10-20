@@ -33,5 +33,5 @@ npm install --save-dev @types/k6
 
 ## Run 
 ```bash
-k6 run script.js
+k6 run test-1.ts
 ````
